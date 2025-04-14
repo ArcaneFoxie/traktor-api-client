@@ -1,4 +1,4 @@
-var API_BASE_URL = "http://localhost:8080"
+var API_BASE_URL = "http://localhost:4578/updaters/Traktor"
 
 function send(endpoint, data) {
   var request = new XMLHttpRequest(),
